@@ -64,12 +64,5 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        try {
-            Class c1 = Class.forName("SubThread");
-            c1.
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
     }
-
 }
